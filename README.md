@@ -1,8 +1,26 @@
-# NetPractice
+# 🌐 NetPractice
 
-NetPractice is an educational web-based tool designed for students at 42 to practice and understand basic networking concepts. The project provides interactive network configuration challenges, simulating real-world scenarios with hosts, routers, switches, and the internet.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License](https://img.shields.io/badge/License-Educational-blue.svg)]()
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
 
-## Key Networking Concepts
+<div align="center">
+
+# 🌐 NetPractice
+
+> An educational web-based tool designed for students at 42 to practice and understand basic networking concepts. The project provides interactive network configuration challenges, simulating real-world scenarios with hosts, routers, switches, and the internet.
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/net_practice?style=social)](https://github.com/yourusername/net_practice/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/net_practice?style=social)](https://github.com/yourusername/net_practice/network)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/net_practice)](https://github.com/yourusername/net_practice/issues)
+
+</div>
+
+---
+
+## 📚 Key Networking Concepts
 
 - **Networks:** Systems of interconnected devices (hosts) that communicate using addresses and protocols.
 - **Network Uses:** Sharing hardware, sharing data, and providing data protection (backup).
@@ -28,7 +46,9 @@ NetPractice is an educational web-based tool designed for students at 42 to prac
 - **MAC Address:** Unique identifier for network interfaces.
 - **Subnetting:** Divides networks into smaller sub-networks for better management and security.
 
-## Usage
+---
+
+## 📖 Usage
 
 This project can be used as a reference or study guide for students learning about:
 - Network fundamentals
@@ -39,5 +59,7 @@ This project can be used as a reference or study guide for students learning abo
 
 > **Note:** The architectures and addresses used in the levels are fictional and not connected to real configurations.
 
-## License
-This content is provided for educational purposes as part of the 42 curriculum. It is not authorized for duplication, modification, or use in any other context (personal, commercial, public, open source, etc.). 
+---
+
+## 📄 License
+This content is provided for educational purposes as part of the 42 curriculum. It is not authorized for duplication, modification, or use in any other context (personal, commercial, public, open source, etc.).
